@@ -1,0 +1,17 @@
+{
+  "name": "labelcomp",
+  "version": "1.0.0",
+  "description": "A simple web component that provides a label with a line of content with styling, position options",
+  "main": "LabelComp.vue",
+  "repository": "git+https://github.com/deandevl/LabelComp.git",
+  "keywords": [
+    "Vue.js",
+    "LabelComp"
+  ],
+  "author": "'Rick <deanr3@bardstown.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "vue": "^2.5.9"
+  }
+}
